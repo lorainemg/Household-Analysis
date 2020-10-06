@@ -1,0 +1,99 @@
+PWD /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.tex
+OUTPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.sty
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.aux
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.aux
+OUTPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+INPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+OUTPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.out
+OUTPUT /media/loly/02485E43485E359F/_Escuela/__UH/4to/2do Semestre/Estadística/Proyecto/Proyecto Estadistica/Equipo 2 - Hosehold/Informe/Plantilla/jcematcom.pdf

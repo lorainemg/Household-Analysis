@@ -6,3 +6,4 @@ In addition, a study of these data will be carried out using regression techniqu
 
 The dataset can be found in: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
+Documentation about Phase1 and Phase2 of this project can be found at [phase1-report](https://github.com/lorainemg/Household-Analysis/blob/main/Phase1/doc/report.pdf) and [phase2-report](https://github.com/lorainemg/Household-Analysis/blob/main/Phase2/doc/report.pdf)
